@@ -1,0 +1,14 @@
+.post-list {
+
+  &__link {
+    margin-top: 30px;
+  }
+}
+
+.post-element  {
+  margin: 20px 0;
+
+  &>button {
+    width: 10rem;
+  }
+}
